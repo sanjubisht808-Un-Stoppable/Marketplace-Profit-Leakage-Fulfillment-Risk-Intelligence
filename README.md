@@ -49,9 +49,11 @@ Power BI — focused 2-page interactive dashboard
 
 ## Dashboard
 
-| Executive Overview | Leakage Diagnostic |
-|---|---|
-| ![Executive Overview](screenshots/executive_overview.png) | ![Leakage Diagnostic](screenshots/leakage_diagnostic.png) |
+### Executive Overview
+![Executive Overview](screenshots/Dash_1.png)
+
+### Leakage Diagnostic
+![Leakage Diagnostic](screenshots/Dash_2.png)
 
 Deliberately scoped to two themes — leakage and fulfillment — rather than four, so every visual on the final deliverable directly serves the business question stated above. See [Headline Findings](#headline-findings) for what was built but intentionally left off-screen.
 
@@ -93,4 +95,4 @@ This dataset is synthetic. Several fields (`fraud_risk_score`, `delivery_status`
 
 ---
 
-**[Sanjay Singh]**
+**[Sanjay Singh]** 
